@@ -1,5 +1,5 @@
 # Hotel-Management-System
-# HotelManagement
+
 ## this is a robust hotel management software designed using c++ 
 ---
 ## the software allows any scalability and advancement to any required perfomance
